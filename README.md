@@ -1,5 +1,5 @@
 # KinectronicsApps
-Example apps that implement Kinectronics API
+Example apps that implement [**Kinectronics**](https://github.com/JMRMEDEV/Kinectronics) API and tools.
 
 ### Currently implemented working examples
 
