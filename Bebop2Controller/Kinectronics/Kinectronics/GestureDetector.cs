@@ -8,11 +8,15 @@
     public class GestureDetector
     {
 
+        // Textblocks for displaying data in the GUI
         private TextBlock database_gd;
         private TextBlock gesture_gd;
         private TextBlock device_gd;
         private TextBlock command_gd;
+
+        // Definition of the used Gesture DB
         private KinectronicsDefaultGestureDataBase gestureDB;
+
         public string detectedGesture = null;
 
         // Definition of the Bebop2 drone
@@ -36,8 +40,11 @@
 
             // Write your program's logic from this point:
 
+            // Inicialization of the Bebop2 Object
             bebop2 = new Bebop2(connectionType);
+            // Try to reach the WiFi IP by the port 4444 TODO: Implement exception
             bebop2.StablishConnection();
+            // Show the device in the GUI
             this.device_gd.Text = "Bebop2";
         }
 
@@ -49,12 +56,14 @@
                 {
                     detectedGesture = gestureDB.GetGesture(body);
                     this.gesture_gd.Text = detectedGesture;
+                    // Send the detected gesture to the controller method
                     ControlBebop2(detectedGesture);
                 }
             }
             return "no tracked body";
         }
 
+        // Controller Method
         private void ControlBebop2(string detectedGesture)
         {
             switch (detectedGesture)
