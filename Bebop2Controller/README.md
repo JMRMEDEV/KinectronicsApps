@@ -14,47 +14,47 @@ The relationship gesture-drone_command is defined in the following list:
 
 2. **Gesture:** Arms45DownPosition. **Command:** Land().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/Land.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/Land.png">
 
 3. **Gesture:** ArmsFrontPosition_L. **Command** MoveForward().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveFront.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveFront.png">
 
 4. **Gesture:** ArmsFrontPosition_R. **Command:** MoveForward().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveFront.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveFront.png">
 
 5. **Gesture:** ArmsHRectanglePosition_L. **Command:** DecreaseAltitude().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveDown.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveDown.png">
 
 6. **Gesture:** ArmsHRectanglePosition_R. **Command:** IncreaseAltitude().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveUp.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveUp.png">
 
 7. **Gesture:** ArmsRectanglePosition_L. **Command:** TurnLeft().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/TurnLeft.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/TurnLeft.png">
 
 8. **Gesture:** ArmsRectanglePosition_R. **Command:** TurnRight().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/TurnRight.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/TurnRight.png">
 
 9. **Gesture:** ArmsSidePosition_L. **Command:** MoveLeft().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveLeft.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveLeft.png">
 
 10. **Gesture:** ArmsSidePosition_R. **Command:** MoveRight().
 
-<img src="<https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveRight.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveRight.png">
 
 11. **Gesture:** ArmsSquarePosition_L. **Command:** MoveBackward().
 
-<img src="https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveBack.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveBack.png">
 
 12. **Gesture:** ArmsSquarePosition_R. **Command:** MoveBackward().
 
-<img src="<https://github.com/JMRMEDEV/Kinectronics/tree/master/RepositoryMedia/Examples/Bebop2Controller/MoveBack.png">
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Examples/Bebop2Controller/MoveBack.png">
 
 13. **Gesture:** None. **Command:** Pause().
 
