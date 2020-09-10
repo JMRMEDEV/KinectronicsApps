@@ -118,7 +118,7 @@
                     break;
                 default:
                     this.command_gd.Text = "Pause";
-                    bebop2.MoveBackward();
+                    bebop2.Pause();
                     break;
             }
         }
