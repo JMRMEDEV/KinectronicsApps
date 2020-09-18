@@ -4,7 +4,7 @@ This app, uses [Kinectronics](https://github.com/JMRMEDEV/Kinectronics) for cont
 
 <img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Devices/Drones/Parrot/Parrot-Bebop-2-dr.jpg" width="350" height="200">
 
-In this example app, the gestures of the database [DefaultGestureDtabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined drone command.
+In this example app, the gestures of the database [DefaultGestureDatabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined drone command.
 
 The relationship gesture-drone_command is defined in the following list:
 
