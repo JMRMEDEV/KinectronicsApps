@@ -50,7 +50,7 @@ There is a **secondary controller** that only tracks **left hand state** for ope
 
 ## Simulation
 
-The simulation is achieved through [**Webots Robot Simulator**](https://www.cyberbotics.com/), an open-source software. According to their developers, **Webots** was built thinking on using the developed controllers on the real robots ([transfer to your own robot](https://cyberbotics.com/doc/guide/transfer-to-your-own-robot)). I guess that so can be achieved with a [plugin](https://cyberbotics.com/doc/guide/controller-plugin#remote-control-plugin). However, such implementation has not yet being developed for this controller. I hope it will in future realeases.
+The simulation is achieved through [**Webots Robot Simulator**](https://www.cyberbotics.com/), an open-source software. According to their developers, **Webots** was built thinking on using the developed controllers on the real robots ([transfer to your own robot](https://cyberbotics.com/doc/guide/transfer-to-your-own-robot)). I guess that so can be achieved with a [plugin](https://cyberbotics.com/doc/guide/controller-plugin#remote-control-plugin). However, such implementation has not yet been developed for this controller. I hope it will in future realeases.
 
 ## Warning
 
