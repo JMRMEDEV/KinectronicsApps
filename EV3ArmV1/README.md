@@ -1,5 +1,7 @@
 # LEGO Mindstorms EV3 Arm Controller
 
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Devices/Arms/ev3arm.png">
+
 This example uses a modded version of the [official EV3 arm](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-model-core-set-robot-arm-h25-56cdb22c1e3a02f1770bda72862ce2bd.pdf) by LEGO. It was modified to take away the unused sensors and make it more compatible with **Virtual Robotics Toolkit**. However, it was designed a way to behave like the official model. If you need the buliding instructions of the modified version, please contact me.
 
 In this example app, the gestures of the database [DefaultGestureDatabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined arm command.
