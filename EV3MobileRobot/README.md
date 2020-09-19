@@ -1,5 +1,7 @@
 # LEGO Mindstorms EV3 Mobile Robot Controller
 
+<img src="https://github.com/JMRMEDEV/Kinectronics/blob/master/RepositoryMedia/Devices/Mobile/ev3mobile.png">
+
 This example uses a modded version of the [official EV3 mobile robot](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf) by LEGO. It was modified to make it more compatible with **Virtual Robotics Toolkit**, since VRT does not support the metal ball behaving like in real life. However, it was designed a way to behave like the official model. If you need the buliding instructions of the modified version, please contact me.
 
 In this example app, the gestures of the database [DefaultGestureDatabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined mobile robot command.
