@@ -8,7 +8,7 @@ If you want to run this sample, you need the Webots' UR5 world and C++ TCP serve
 
 First thing you need yo do, is load the world in Webots (**UR5_test.wbt**) available in the decompressed **UR5_test** folder. Later, you have to open the solution (**UR5TCPController.sln**) available on the **UR5_test/Controllers/UR5TCPControllers** folder, build it and run it. You could either run directly the executable file. Please **notice** that without doing this first, the Kinectronics' UR5 controlller, won't work.
 
-In this example app, the gestures of the database [DefaultGestureDatabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined drone command.
+In this example app, the gestures of the database [DefaultGestureDatabase](https://github.com/JMRMEDEV/Kinectronics/wiki/Gesture-Databases#default-gesture-database) are linked to every defined arm command.
 
 The relationship gesture-drone_command is defined in the following list:
 
